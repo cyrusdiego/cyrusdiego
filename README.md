@@ -6,7 +6,7 @@ I'm a 4th year software engineering student at the University of Alberta. </br> 
 
 ## Currently...
 - Polishing up my spotify track visualizer [here](spotify-visualizer-14c21.web.app)
-- Polishing my personal project portfolio [website](cyrusdiego.com)
+- Polishing my personal project portfolio [website](https://cyrusdiego.com/)
 - Learning SwiftUI, back-end web development, and more :) 
 
 ## Contact 
