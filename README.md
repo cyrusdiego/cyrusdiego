@@ -1,7 +1,13 @@
 # Hi, I'm Cyrus :) 
-(he / him)</br>
-I'm a 4th year software engineering student at the University of Alberta. I'm currently looking for internship oppurtunities for Summer and Fall 2021. </br>
+(he/him)</br>
 
-I'm currently working on and learning more about full-stack web development, iOS app development, and more. Stay tuned as I continue to build projects (check out my project portfolio [website](cyrusdiego.com)) </br>
+## About Me 
+I'm a 4th year software engineering student at the University of Alberta. </br> When I'm not in front of a computer, I'm usually either cooking, hiking, or listening to music.I'm currently looking for internship oppurtunities for Summer and Fall 2021. </br>
 
-You can reach me at: cdiego@ualberta.ca 
+## Currently...
+- Polishing up my spotify track visualizer [here](spotify-visualizer-14c21.web.app)
+- Polishing my personal project portfolio [website](cyrusdiego.com)
+- Learning SwiftUI, back-end web development, and more :) 
+
+## Contact 
+You can reach me at: cdiego@ualberta.ca or connect with me on [LinkedIn](https://www.linkedin.com/in/cyrus-diego/)
