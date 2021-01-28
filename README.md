@@ -6,8 +6,7 @@ I'm a 4th year software engineering student at the University of Alberta. </br> 
 
 ## Currently...
 - Polishing up my spotify track visualizer [here](https://spotify-visualizer-14c21.web.app)
-- Polishing my personal project portfolio [website](https://cyrusdiego.com/)
-- Learning SwiftUI, back-end web development, and more :) 
+- Learning SwiftUI, Rust, back-end web development, and more :) 
 
 ## Contact 
 You can reach me at: cdiego@ualberta.ca or connect with me on [LinkedIn](https://www.linkedin.com/in/cyrus-diego/)
